@@ -1,6 +1,5 @@
 """SH2 disassembler"""
 
-from __future__ import print_function
 from collections import namedtuple
 
 try:

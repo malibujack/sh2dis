@@ -1,8 +1,5 @@
 """Memory segments"""
 
-from __future__ import print_function
-
-
 import bisect
 import textwrap
 
